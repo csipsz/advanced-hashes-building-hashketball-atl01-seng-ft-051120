@@ -16,7 +16,7 @@ def game_hash
 end
 
 
-
+{example_player_hash[:player_name]}
 
 
 
