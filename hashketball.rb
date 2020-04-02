@@ -25,25 +25,3 @@ def game_hash
  }
 end
 
-
-
-  let(:jeff_adrien) {
-    
-  }
-
-  let(:bismack_biyombo) {
-    
-  }
-
-  let(:desagna_diop) {
-    
-  }
-
-  let(:ben_gordon) {
-    
-  }
-
-  let(:kemba_walker) {
-    
-  }
-
