@@ -22,4 +22,4 @@ end
 
 {:player_name => "Mason Plumlee", :number => , :shoe => , :points => , :rebounds => , :assists => , :steals => , :blocks => , :slam_dunks => }
 
-{:player_name => , :number => , :shoe => , :points => , :rebounds => , :assists => , :steals => , :blocks => , :slam_dunks => }
+{:player_name => "" , :number => , :shoe => , :points => , :rebounds => , :assists => , :steals => , :blocks => , :slam_dunks => }
