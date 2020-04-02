@@ -18,8 +18,8 @@ end
 :number => ,
 :shoe => ,
 :points => ,
-:rebounds 
-:assists
+:rebounds => ,
+:assists 
 :steals
 :blocks
 :slam_dunks}
